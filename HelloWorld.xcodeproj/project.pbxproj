@@ -13,7 +13,7 @@
 		A11F10D61AF3EA8C003E98B3 /* HelloWorldTests.m in Sources */ = {isa = PBXBuildFile; fileRef = A11F10D51AF3EA8C003E98B3 /* HelloWorldTests.m */; };
 		A11F10E01AF3EB20003E98B3 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = A11F10DF1AF3EB20003E98B3 /* Default-568h@2x.png */; };
 		A14676EB1AF3F1E800E9575A /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A14676E91AF3F1E800E9575A /* ViewController.m */; };
-		A14676EC1AF3F1E800E9575A /* ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = A14676EA1AF3F1E800E9575A /* ViewController.xib */; };
+		A1A9D7131AF7382F00A23D24 /* ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = A1A9D7121AF7382F00A23D24 /* ViewController.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -39,7 +39,7 @@
 		A11F10DF1AF3EB20003E98B3 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
 		A14676E81AF3F1E800E9575A /* ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		A14676E91AF3F1E800E9575A /* ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
-		A14676EA1AF3F1E800E9575A /* ViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ViewController.xib; sourceTree = "<group>"; };
+		A1A9D7121AF7382F00A23D24 /* ViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ViewController.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,7 +88,7 @@
 				A11F10B91AF3EA8C003E98B3 /* Supporting Files */,
 				A14676E81AF3F1E800E9575A /* ViewController.h */,
 				A14676E91AF3F1E800E9575A /* ViewController.m */,
-				A14676EA1AF3F1E800E9575A /* ViewController.xib */,
+				A1A9D7121AF7382F00A23D24 /* ViewController.xib */,
 			);
 			path = HelloWorld;
 			sourceTree = "<group>";
@@ -200,7 +200,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A11F10C71AF3EA8C003E98B3 /* Images.xcassets in Resources */,
-				A14676EC1AF3F1E800E9575A /* ViewController.xib in Resources */,
+				A1A9D7131AF7382F00A23D24 /* ViewController.xib in Resources */,
 				A11F10E01AF3EB20003E98B3 /* Default-568h@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

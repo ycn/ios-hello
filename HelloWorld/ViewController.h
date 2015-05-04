@@ -17,7 +17,7 @@ typedef enum {
 
 @interface ViewController : UIViewController
 
-@property (strong, nonatomic) UIView  *subView;
+@property (strong, nonatomic) UIView  *background;
 @property (strong, nonatomic) UILabel *playLabel;
 @property (strong, nonatomic) UILabel *rightLabel;
 @property (strong, nonatomic) UILabel *bottomLabel;
